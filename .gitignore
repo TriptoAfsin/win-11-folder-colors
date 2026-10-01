@@ -1,0 +1,13 @@
+# pristine copy of the user's own system file
+backup/
+state.json
+apply.log
+
+# generated locally from your own Windows install (recolored Microsoft artwork)
+icons/
+
+# Resource Hacker: downloaded by setup.ps1 (licence allows only full-ZIP redistribution)
+tools/
+
+__pycache__/
+*.pyc
